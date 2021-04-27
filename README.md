@@ -8,7 +8,7 @@ Something about living overseas?
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
+| **Final project**            | A webapp to do x. | React Native, Express,Node, MongoDB Jest, etc. |
 | **Something else worked on** | A webapp to do y. | Ruby              |
 
 ## Experience
@@ -41,7 +41,7 @@ Whilst at Crystal Ski I implimented a new process for tracking staff movements. 
 
 #### Makers Academy (January 2021 - April 2021)
 
-- OOP, TDD, MVC, DDD
+- OOP, TDD, MVC
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
@@ -53,7 +53,7 @@ Whilst at Crystal Ski I implimented a new process for tracking staff movements. 
 #### The Ashcombe School (2002 - 2009)
 
 - A Levels: 3 A's in Mathematics, History, Sociology
-- GCSES: 5 A*'s, 4A's
+- GCSES: 5 A*'s, 4A's, including Mathematics and Dual Science
 
 
 
