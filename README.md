@@ -37,9 +37,9 @@ A lot of time was spent pair programming or working on group projects whilst stu
 
 #### Not phased under pressure
 
-Working at the airport for Crystal Ski I consistently proved myself during crisis situations and was consequntly promoted to the airport management team. I became a team member that could step into any role and be relied on to 'get things done' whilst we faced huge operational obstacles, such as overnighting 1000 guest at an airport. My **resilance**, **abilty to keep calm** and **positive attitude** were attributes I was regularly praised for by colleagues.
+Working at the airport for Crystal Ski I consistently proved myself during crisis situations and was consequntly promoted to the airport management team. I became a team member that could step into any role and be relied on to 'get things done' whilst we faced huge operational obstacles, such as overnighting 1000 guest in an airport. My **resilance**, **abilty to keep calm** and **positive attitude** were attributes I was regularly praised for by colleagues.
 
-The final project makers under , all whilst maintaining good team relations.
+As part of my Makers final project we chose to learn an entirely new tech stack. With just two weeks to learn a new framework, design and build a full-stack mobile app and present our finished app, we were under a lot of time pressure......... whilst working effectively as a team, hopping on and helping others out when needed. Don't get stressed, see the bigger goal.
 
 
 
@@ -55,7 +55,7 @@ _Operations Executive and Airport Manager_
 
 - A very varied and unpredictable role where a **can-do attitude** was a must
 - In the office **attention to detail** was crucial as I managed high risk compliance areas related to staffing and was responsible for ensuring overseas staff were paid correctly, liasing with payroll and completing a monthly SPF.
-- Promoted to part of the airport management team after my first winter
+- Promoted to part of the airport management team after my first winter.....
 
 **Foxtons Ltd, London, UK** (March 2015 to March 2017)  
 _Property Manager_
@@ -81,18 +81,18 @@ _Property Manager_
 
 #### University of Birmingham (2010 - 2013)
 
-- History: BA(hons) 2.1
+History: BA(hons) 2.1
 
 #### The Ashcombe School (2002 - 2009)
 
-- A Levels: 3 A's in Mathematics, History, Sociology
-- GCSES: 5 A*'s, 4A's, including Mathematics and Dual Science
+A Levels: 3 A's in Mathematics, History, Sociology
+GCSES: 5 A*'s, 4A's, including Mathematics and Dual Science
 
 
 
 ## Hobbies
 
-- Drawing and creating new things with upcycled materials. Take a look at my drawings [here](https://www.instagram.com/greponsketch/).
+- Drawing and creating new things with upcycled materials. Take a look at some of my drawings [here](https://www.instagram.com/greponsketch/).
 - Trail running and hiking, I am running my second trail marathon this summer.
 - Ski touring in winter and wild camping in the summer, whatever the season I love making the most of living in the mountains.
 - Hanging out with my dogs, two Boston Terrier's named Norman and Ronnie 🐶 🐶.
