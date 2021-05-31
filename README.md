@@ -16,7 +16,7 @@ Since graduating from univeristy I have spent the majority of my time living and
 
 ### What I'm currently working on
 
-I'm currently taking a React course on Udemy with the aim of building myself a portfolio website.
+I'm currently taking a React course on Udemy with the aim of building myself a portfolio website. 
 
 ## Skills
 
@@ -31,7 +31,7 @@ At Makers I've learnt that great problems solving skills are vital if you want t
 
 I have built personable client relationships both as a property manager and whilst working face-to-face with clients at the bed and breakfast I ran for two summers. There I built a collection of great ratings and reviews. Working as part of an operations team, I learnt that to be successful it is vital to get colleagues from other teams and departments on board with your ideas, plans and processes. I became a vauled member of the operations team at Crystal Ski, through **engaging with my colleagues** and taking time to understand their needs. To further advance my **written communication skills**, as well as improve my self-evaluation, I have started a blog to record my journey as a software developer, take a look [here](https://joannabrigham.medium.com/).
 
-A lot of time was spent pair programming or working on group projects whilst studying at Makers. I was a strong advocate for having an emotional check-in at the start of all our stand-ups and retros. Communicating how everyone in the team was doing meant we were able to establish good working realtionships faster promoting more **effective team work** and a happier team.
+A lot of time was spent pair programming or working on group projects whilst studying at Makers. I was a strong advocate for having an emotional check-in at the start of all our stand-ups and retros. Communicating how everyone in the team was feeling meant we were able to establish better, more meaningful team relations promoting more **effective team work** and a happier team.
 
 
 
@@ -41,7 +41,10 @@ Working at the airport for Crystal Ski I consistently proved myself during crisi
 
 As part of my Makers final project we chose to learn an entirely new tech stack. With just two weeks to learn a new framework, design and build a full-stack mobile app and present our finished app, we were under a lot of time pressure......... whilst working effectively as a team, hopping on and helping others out when needed. Don't get stressed, see the bigger goal.
 
+#### Team player
 
+
+Foxtons, Crystal Makers
 
 
 
