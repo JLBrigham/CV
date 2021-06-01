@@ -24,7 +24,7 @@ I'm currently taking a React course on Udemy with the aim of building myself a p
 
 Whilst at Crystal Ski I **implimented a new process** for tracking staff movements. I identified this as an area for improvement as errors here were costing the company financially and risking compliance to local workplace laws. I analysed what was not working and came up with ways the process could be improved efficiently. The process I put together was subsequently also rolled out in our counterpart overseas offices.
 
-At Makers I've learnt that great problems solving skills are vital if you want to become a great developer. I've found that no matter how challenging a task may seem, there is no need to feel overwhelemed as it *will* be able to be broken down into a smaller more manageable problems. A process I put into practice in my final project and documented [here](https://joannabrigham.medium.com/making-a-dynamic-progress-bar-in-my-first-react-native-app-25e3de9f2f3). I've also learnt that knowing when, and not being afraid, to ask for help is a crucial part of problem solving whilst coding.
+At Makers I've learnt that great problems solving skills are vital if you want to become a great developer. I've found that no matter how challenging a task may seem, there is no need to feel overwhelemed as it *will* be possible to break it down into a smaller more manageable problems. A process I put into practice when buildig a progress bar in my in my final project and documented [here](https://joannabrigham.medium.com/making-a-dynamic-progress-bar-in-my-first-react-native-app-25e3de9f2f3). I've also learnt that knowing when, and not being afraid, to ask for help is a crucial part of problem solving whilst coding.
 
 
 #### Effective communicator
@@ -37,7 +37,7 @@ A lot of time was spent pair programming or working on group projects whilst stu
 
 #### Not phased under pressure
 
-Working at the airport for Crystal Ski I consistently proved myself during crisis situations and was consequntly promoted to the airport management team. I became a team member that could step into any role and be relied on to 'get things done' whilst we faced huge operational obstacles, such as overnighting 1000 guest in an airport. My **resilance**, **abilty to keep calm** and **positive attitude** were attributes I was regularly praised for by colleagues.
+Working at the airport for Crystal Ski I consistently proved myself during crisis situations and was consequntly promoted to the airport management team. I became a team member that could step into any role and be relied on to 'get things done' whilst we faced huge operational obstacles, such as overnighting 1000 guest in a very small, regional airport. My **resilance**, **abilty to keep calm** and **positive attitude** were attributes I was regularly praised for by colleagues.
 
 As part of my Makers final project we chose to learn an entirely new tech stack. With just two weeks to learn a new framework, design and build a full-stack mobile app and present our finished app, we were under a lot of time pressure......... whilst working effectively as a team, hopping on and helping others out when needed. Don't get stressed, see the bigger goal.
 
