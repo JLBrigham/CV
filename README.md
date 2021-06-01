@@ -17,7 +17,7 @@ Since graduating from university I have spent the majority of my time living and
 | **[Acebook](https://github.com/JLBrigham/acebook-loungin-lizards)** | A Facebook clone web app, it was a challenge to learn Rails as a team but it was a great feeling to see how much we'd learnt at the end of the two weeks | Ruby, Rails, PostgreSQL, Devise, Rspec, Capybara |
 | **[Chitter](https://github.com/JLBrigham/chitter-challenge)** | A Twitter clone web app, built entirely by myself,  I paid particular attention developing my CSS skills.| Ruby, Sinatra, PostgreSQL, Rspec, Capybara |
 
-### What I'm currently working on
+#### What I'm currently working on
 
 I'm currently taking a React course on Udemy with the aim of building myself a portfolio website. 
 
@@ -88,7 +88,7 @@ GCSES: 5 A*'s, 4A's, including Mathematics and Dual Science
 
 
 
-## Hobbies
+## Interests
 
 - Drawing and creating new things with upcycled materials. Take a look at some of my drawings [here](https://www.instagram.com/greponsketch/).
 - Trail running and hiking, I am running my second trail marathon this summer.
