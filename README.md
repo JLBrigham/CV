@@ -80,6 +80,7 @@ History: BA(hons) 2.1
 #### The Ashcombe School (2002 - 2009)
 
 A Levels: 3 A's in Mathematics, History, Sociology
+
 GCSES: 5 A*'s, 4A's, including Mathematics and Dual Science
 
 
