@@ -1,4 +1,7 @@
-## Joanna Brigham 
+# Joanna Brigham
+### [LinkedIn](www.linkedin.com/in/joanna-brigham) | [Medium](https://joannabrigham.medium.com/)
+
+[Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Interests](#interests)
 
 A junior developer who graduated from Makers Academy in April 2021, I am now excited to be looking for my first role in the tech industry. 
 
