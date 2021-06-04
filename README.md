@@ -41,7 +41,7 @@ A lot of time was spent pair programming or working on group projects whilst stu
 
 Working at the airport for Crystal Ski I consistently proved myself during crisis situations and was consequntly promoted to the airport management team. I became a team member that could step into any role and be relied on to 'get things done' whilst we faced huge operational obstacles, such as overnighting 1000 guest in a very small, regional airport. My **resilance**, **abilty to keep calm** and **positive attitude** were attributes I was regularly praised for by colleagues.
 
-As part of my Makers final project we chose to learn an entirely new tech stack. With just two weeks to learn a new framework, design and build a full-stack mobile app and present our finished app, we were under a lot of time pressure......... whilst working effectively as a team, hopping on and helping others out when needed. Don't get stressed, see the bigger goal.
+As part of my Makers final project we chose to learn an entirely new tech stack. With just two weeks to learn a new framework, design and build a full-stack mobile app and present our finished app, we were under a lot of time pressure...... whilst working effectively as a team, hopping on and helping others out when needed. Don't get stressed, see the bigger goal......
 
 
 
