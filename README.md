@@ -41,7 +41,7 @@ A lot of time was spent pair programming or working on group projects whilst stu
 
 #### Not phased under pressure
 
-Working at the airport for Crystal Ski I consistently proved myself during crisis situations and was consequently promoted to the airport management team. My **adaptability** meant I became a team member that could step into any role and be relied on to 'get things done' whilst we faced huge operational obstacles, such as overnighting 1000 guests in a very small, regional airport. My **resilance**, **abilty to keep calm** and **positive attitude** were attributes I was regularly praised for by colleagues.
+Working at the airport for Crystal Ski I consistently proved myself during crisis situations and was consequently promoted to the airport management team. My **adaptability** meant I became a team member that could step into any role and be relied on to 'get things done' whilst we faced huge operational obstacles, such as overnighting 1000 guests in a very small, regional airport. My **resilience**, **ability to keep calm** and **positive attitude** were attributes I was regularly praised for by colleagues.
 
 As part of my Makers final project we chose to learn an entirely new tech stack. With just two weeks to learn a new framework, design and build a full-stack mobile app and present our finished app, we were under a lot of time pressure. **Working in sprints** to **manage our time effectively** and using an **agile workflow** we were able to present a project we were proud of at the end of the two weeks. This was also made possible by maintaining positive team relations and taking the time to ensure we were looking at the bigger picture and reflecting on the progress we had made. 
 
