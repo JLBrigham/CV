@@ -5,11 +5,11 @@
 
 A junior developer who graduated from Makers Academy in April 2021, I am now excited to be looking for my first role in the tech industry. 
 
-During this intensive 16 week bootcamp, I have gone from having basic Ruby programming skills to the ability to build a full stack mobile/web application. All whilst learning and understanding the importance of best coding practices and the value of writing high quality code. (add link) (mention previous work experience) Seeing the progression I've made in this short space of time has taught me that with a growth mindset, I have all the skills needed to learn whatever I put my mind to. The opportunities the tech industry will give me to continue this really excites me. Whilst at Makers I particularly enjoyed pair-programming and working on group engineering projects. I have seen the huge benefits that come from working collaboratively and am excited that the tech industry provides a chance to work and develop my skills further in this way.
-
-(Mention blog)
+During this intensive 16 week bootcamp, I have gone from having basic Ruby programming skills to the ability to build a [full stack mobile/web application](https://github.com/JLBrigham/Grappitude). All whilst learning and understanding the importance of best coding practices and the value of writing high quality code. Coming from a background in travel, tourism and property and seeing the progression I've made in this short space of time has taught me that with a growth mindset, I have all the skills needed to learn whatever I put my mind to. The opportunities the tech industry will give me to continue this really excites me. Whilst at Makers I particularly enjoyed pair-programming and working on group engineering projects. I have seen the huge benefits that come from working collaboratively and am excited that the tech industry provides a chance to work and develop my skills further in this way.
 
 Since graduating from university I have spent the majority of my time living and working overseas. I've been based in Chamonix-Mont-Blanc, France for the past 4 years.
+
+To record my journey as a software developer I've started a blog, take a look [here](https://joannabrigham.medium.com/) if you would like to find out more.
 
 ## Projects
 
@@ -34,18 +34,17 @@ At Makers I've learnt that great problems solving skills are vital if you want t
 
 #### Effective communicator and team worker
 
-I have built personable client relationships both as a property manager and whilst working face-to-face with clients at the bed and breakfast I ran for two summers. There I built a collection of great ratings and reviews. Working as part of an operations team, I learnt that to be successful it is vital to get colleagues from other teams and departments on board with your ideas, plans and processes. I became a vauled member of the operations team at Crystal Ski, through **engaging with my colleagues** and taking time to understand their needs. To further advance my **written communication skills**, as well as improve my self-evaluation, I have started a blog to record my journey as a software developer, take a look [here](https://joannabrigham.medium.com/).
+I have built personable client relationships both as a property manager and whilst working face-to-face with clients at the bed and breakfast I ran for two summers. There I built a **collection of great ratings and reviews** whilst hosting guests from all over the world. Working as part of an operations team, I learnt that to be successful it is vital to get colleagues from other teams and departments on board with your ideas, plans and processes. I became a vauled member of the operations team at Crystal Ski, through **engaging with my colleagues** and taking time to understand their needs. To further advance my **written communication skills**, as well as improve my self-evaluation, I have started a blog to record my journey as a software developer, take a look [here](https://joannabrigham.medium.com/).
 
 A lot of time was spent pair programming or working on group projects whilst studying at Makers. I was a strong advocate for having an emotional check-in at the start of all our stand-ups and retros. Communicating how everyone in the team was feeling meant we were able to establish better, more meaningful team relations promoting more **effective team work** and a happier team.
 
 
 #### Not phased under pressure
 
-Working at the airport for Crystal Ski I consistently proved myself during crisis situations and was consequntly promoted to the airport management team. I became a team member that could step into any role and be relied on to 'get things done' whilst we faced huge operational obstacles, such as overnighting 1000 guest in a very small, regional airport. My **resilance**, **abilty to keep calm** and **positive attitude** were attributes I was regularly praised for by colleagues.
+Working at the airport for Crystal Ski I consistently proved myself during crisis situations and was consequntly promoted to the airport management team. My **adaptability** meant I became a team member that could step into any role and be relied on to 'get things done' whilst we faced huge operational obstacles, such as overnighting 1000 guests in a very small, regional airport. My **resilance**, **abilty to keep calm** and **positive attitude** were attributes I was regularly praised for by colleagues.
 
-As part of my Makers final project we chose to learn an entirely new tech stack. With just two weeks to learn a new framework, design and build a full-stack mobile app and present our finished app, we were under a lot of time pressure...... whilst working effectively as a team, hopping on and helping others out when needed. Don't get stressed, see the bigger goal......
+As part of my Makers final project we chose to learn an entirely new tech stack. With just two weeks to learn a new framework, design and build a full-stack mobile app and present our finished app, we were under a lot of time pressure. **Working in sprints** to **manage our time effectively** and using an **agile workflow** we were able to present a project we were proud of at the end of the two weeks. This was also made possible by maintaining positive team relations and taking the time to ensure we were looking at the bigger picture and reflecting on the progress we had made. 
 
-(Mention adaptability)
 
 
 
@@ -66,9 +65,11 @@ _Property Manager_
 - Trusted to take on the extra responsibility of a larger portfolio when required and successfully managed to consistently achieve the same **high level of           customer service** for which I was often commended. 
 - Studied for and successfully passed the **NFoPP Level 3 Technical Award in Residential Letting and Property Management**. 
 
-**Add in b and b** also to CV
+**Alpes Travel, Chamonix France** (Summer 2018, Summer 2019)
+_Bed and Breakfast Host_
 
-mention emotional intelligence
+- Solely responsible for managing all aspects of the day-to-day running of a bed and breakfast sleeping 10 guests, **time management** was crucial in order to meet guest expectations.
+- **Building relationships** with guests from all over the world, taking time to understand their motivations, ensured I received **great feedback**.
 
 ## Education
 
@@ -92,7 +93,6 @@ History: BA(hons) 2.1
 A Levels: AAB in Mathematics, Sociology, History
 
 GCSES: 5 A*'s, 4A's, including Mathematics and Dual Science
-
 
 
 ## Interests
