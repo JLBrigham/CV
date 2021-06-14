@@ -17,7 +17,7 @@ To record my journey as a software developer I've started a blog, take a look [h
 | --------------- | -------------| -------|
 | **[Grappitude](https://github.com/JLBrigham/Grappitude)** | A mobile app to encourage a positive mindset, my final group project at Makers. I loved seeing my original idea turn into a fully functioning app. | React Native, Express, Node, MongoDB, Javascript, Jest |
 | **[Acebook](https://github.com/JLBrigham/acebook-loungin-lizards)** | A Facebook clone web app, it was a challenge to learn Rails as a team but it was a great feeling to see how much we'd learnt at the end of the two weeks | Ruby, Rails, PostgreSQL, Devise, Rspec, Capybara |
-| **[Chitter](https://github.com/JLBrigham/chitter-challenge)** | A Twitter clone web app, built entirely by myself,  I paid particular attention developing my CSS skills.| Ruby, Sinatra, PostgreSQL, Rspec, Capybara |
+| **[Chitter](https://github.com/JLBrigham/chitter-challenge)** | A Twitter clone web app, built entirely by myself and still in progress,  I paid particular attention to developing my CSS skills.| Ruby, Sinatra, PostgreSQL, Rspec, Capybara |
 
 #### What I'm currently working on
 
@@ -36,14 +36,14 @@ At Makers I've learnt that great problem solving skills are vital if you want to
 
 I have built personable client relationships both as a property manager and whilst working face-to-face with clients at the bed and breakfast I ran for two summers. There I built a **collection of great ratings and reviews** whilst hosting guests from all over the world. Working as part of an operations team, I learnt that to be successful it is vital to get colleagues from other teams and departments on board with your ideas, plans and processes. I became a valued member of the operations team at Crystal Ski, through **engaging with my colleagues** and taking time to understand their needs. To further advance my **written communication skills**, as well as improve my self-evaluation, I have started a blog to record my journey as a software developer, take a look [here](https://joannabrigham.medium.com/).
 
-A lot of time was spent pair programming or working on group projects whilst studying at Makers. I was a strong advocate for having an emotional check-in at the start of all our stand-ups and retros. Communicating how everyone in the team was feeling meant we were able to establish better, more meaningful team relations promoting more **effective team work** and a happier team.
+A lot of time was spent pair programming or working on group projects whilst studying at Makers. I was a strong advocate for having an emotional check-in at the start of all our stand-ups and retros. Communicating how everyone in the team was feeling meant we were able to establish better, more meaningful team relations promoting more **effective team work** and an all round happier team.
 
 
 #### Not phased under pressure
 
 Working at the airport for Crystal Ski I consistently proved myself during crisis situations and was consequently promoted to the airport management team. My **adaptability** meant I became a team member that could step into any role and be relied on to 'get things done' whilst we faced huge operational obstacles, such as overnighting 1000 guests in a very small, regional airport. My **resilience**, **ability to keep calm** and **positive attitude** were attributes I was regularly praised for by colleagues.
 
-As part of my Makers final project we chose to learn an entirely new tech stack. With just two weeks to learn a new framework, design and build a full-stack mobile app and present our finished app, we were under a lot of time pressure. **Working in sprints** to **manage our time effectively** and using an **agile workflow** we were able to present a project we were proud of at the end of the two weeks. This was also made possible by maintaining positive team relations and taking the time to ensure we were looking at the bigger picture and reflecting on the progress we had made. 
+As part of my Makers final project we chose to learn an entirely new tech stack. With just two weeks to learn a new framework, design and build a full-stack mobile app and present our finished app, we were under a lot of time pressure. **Working in sprints** to **manage our time effectively** and using an **agile workflow** we were able to present a project we were proud of at the end of the two weeks. This was also made possible by ensuring we maintained positive team relations whilst working under pressure. We had daily **stand-up and retros** where we took the time to reflect on the progress we had made, I tired to focus on always **having the bigger picture in mind**, a skill I was commended for in my role at Crystal ski.
 
 
 
@@ -69,7 +69,7 @@ _Property Manager_
 _Bed and Breakfast Host_
 
 - Solely responsible for managing all aspects of the day-to-day running of a bed and breakfast sleeping 10 guests, **time management** was crucial in order to meet guest expectations.
-- **Building relationships** with guests from all over the world, taking time to understand their motivations, ensured I received **great feedback**.
+- **Building relationships** with guests from all over the world, I took time to understand their motivations and what they wanted from their holiday which ensured I received **great feedback**.
 
 ## Education
 
