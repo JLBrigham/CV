@@ -3,7 +3,7 @@
 
 [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Interests](#interests)
 
-A junior developer who graduated from Makers Academy in April 2021, I am now excited to be looking for my first role in the tech industry. 
+A junior developer who graduated from Makers Academy in April 2021, I am now excited to be looking for my first role in the tech industry, with a specific interest in front-end development. 
 
 During this intensive 16 week bootcamp, I have gone from having basic Ruby programming skills to the ability to build a [full stack mobile/web application](https://github.com/JLBrigham/Grappitude). All whilst learning and understanding the importance of best coding practices and the value of writing high quality code. Coming from a background in travel, tourism and property and seeing the progression I've made in this short space of time has taught me that with a growth mindset, I have all the skills needed to learn whatever I put my mind to. The opportunities the tech industry will give me to continue this really excites me. Whilst at Makers I particularly enjoyed pair-programming and working on group engineering projects. I have seen the huge benefits that come from working collaboratively and am excited that the tech industry provides a chance to work and develop my skills further in this way.
 
@@ -60,7 +60,7 @@ _Operations Executive and Airport Manager_
 **Foxtons Ltd, London, UK** (March 2015 to March 2017)  
 _Property Manager_
 
-- A complex role which required me to use my **analytical, logical and interpersonal skills** to deal with all aspects of the residential tenancies, liasing with both landlords and tenants.
+- A complex role which required me to use my **analytical, logical and interpersonal skills** to deal with all aspects of the residential tenancies, liaising with both landlords and tenants.
 - I dealt with independent contractors to resolve maintenance issues as well as project managing large scale works such as refurbishment of properties. On a daily   basis this relied on my **problem solving** skills and my ability to use my **initiative** and **think on my feet** as I was often required to work to tight           deadlines.
 - Trusted to take on the extra responsibility of a larger portfolio when required and successfully managed to consistently achieve the same **high level of           customer service** for which I was often commended. 
 - Studied for and successfully passed the **NFoPP Level 3 Technical Award in Residential Letting and Property Management**. 
