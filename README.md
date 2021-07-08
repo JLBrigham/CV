@@ -9,7 +9,7 @@ During this intensive 16 week bootcamp, I have gone from having basic Ruby progr
 
 Since graduating from university I have spent the majority of my time living and working overseas. I've been based in Chamonix-Mont-Blanc, France for the past 4 years.
 
-To record my journey as a software developer I've started a blog, take a look [here](https://joannabrigham.medium.com/) if you would like to find out more.
+To record my journey as a software developer I've started a blog, take a look [here](https://joannabrigham.medium.com/) if you would like to find out more about what I've been learning recently.
 
 ## Projects
 
@@ -21,7 +21,7 @@ To record my journey as a software developer I've started a blog, take a look [h
 
 #### What I'm currently working on
 
-I'm currently taking a React course on Udemy with the aim of building myself a portfolio website. 
+I'm teaching myself React with the aim of building myself a portfolio website. 
 
 ## Skills
 
