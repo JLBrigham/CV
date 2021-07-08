@@ -21,7 +21,7 @@ To record my journey as a software developer I've started a blog, take a look [h
 
 #### What I'm currently working on
 
-I'm teaching myself React with the aim of building myself a portfolio website. 
+I'm teaching myself React with the aim of building myself a portfolio website. I recently completed a React tutorial to build this [task tracker](https://github.com/JLBrigham/react-task-tracker) and plan to now look into testing React with Jest and Enzyme.
 
 ## Skills
 
