@@ -3,7 +3,7 @@
 
 [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Interests](#interests)
 
-A junior developer who graduated from Makers Academy in April 2021, I am now excited to be looking for my first role in the tech industry, with a specific interest in front-end development. 
+A junior developer who graduated from Makers Academy in April 2021, I am now excited to be looking for my first role in the tech industry. 
 
 During this intensive 16 week bootcamp, I have gone from having basic Ruby programming skills to the ability to build a [full stack mobile/web application](https://github.com/JLBrigham/Grappitude). All whilst learning and understanding the importance of best coding practices and the value of writing high quality code. Coming from a background in travel, tourism and property and seeing the progression I've made in this short space of time has taught me that with a growth mindset, I have all the skills needed to learn whatever I put my mind to. The opportunities the tech industry will give me to continue this really excites me. Whilst at Makers I particularly enjoyed pair-programming and working on group engineering projects. I have seen the huge benefits that come from working collaboratively and am excited that the tech industry provides a chance to work and develop my skills further in this way.
 
