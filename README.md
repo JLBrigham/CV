@@ -7,8 +7,6 @@ A junior developer who graduated from Makers Academy in April 2021, I am now exc
 
 During this intensive 16 week bootcamp, I have gone from having basic Ruby programming skills to the ability to build a [full stack mobile/web application](https://github.com/JLBrigham/Grappitude). All whilst learning and understanding the importance of best coding practices and the value of writing high quality code. Coming from a background in travel, tourism and property and seeing the progression I've made in this short space of time has taught me that with a growth mindset, I have all the skills needed to learn whatever I put my mind to. The opportunities the tech industry will give me to continue this really excites me. Whilst at Makers I particularly enjoyed pair-programming and working on group engineering projects. I have seen the huge benefits that come from working collaboratively and am excited that the tech industry provides a chance to work and develop my skills further in this way.
 
-Since graduating from university I have spent the majority of my time living and working overseas. I've been based in Chamonix-Mont-Blanc, France for the past 4 years.
-
 To record my journey as a software developer I've started a blog, take a look [here](https://joannabrigham.medium.com/) if you would like to find out more about what I've been learning recently.
 
 ## Projects
@@ -21,7 +19,7 @@ To record my journey as a software developer I've started a blog, take a look [h
 
 #### What I'm currently working on
 
-I'm teaching myself React with the aim of building myself a portfolio website. I recently completed a React tutorial to build this [task tracker](https://github.com/JLBrigham/react-task-tracker) and plan to now look into testing React with Jest and Enzyme.
+I'm teaching myself React with the aim of building myself a portfolio website. I recently completed a React tutorial to build this [task tracker](https://github.com/JLBrigham/react-task-tracker) and am now leanrning how to test React with Jest and Enzyme.
 
 ## Skills
 
