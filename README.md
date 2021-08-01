@@ -13,7 +13,8 @@ To record my journey as a software developer I've started a blog, take a look [h
 
 | Name            | Description  | Tech   |
 | --------------- | -------------| -------|
-| **[Grappitude](https://github.com/JLBrigham/Grappitude)** | A mobile app to encourage a positive mindset, my final group project at Makers. I loved seeing my original idea turn into a fully functioning app. | React Native, Express, Node, MongoDB, Javascript, Jest |
+| **[Grappitude](https://github.com/JLBrigham/Grappitude)** | A mobile app to encourage a positive mindset, my final group project at Makers. I loved seeing my original idea turn into a fully functioning app. | React Native, Express, Node, MongoDB, JavaScript, Jest |
+| **[Notes App](https://github.com/JLBrigham/notes)** | A front-end JavaScript-only webapp for keeping notes, with custom testing framework. | Vanilla JavaScript |
 | **[Acebook](https://github.com/JLBrigham/acebook-loungin-lizards)** | A Facebook clone web app, it was a challenge to learn Rails as a team but it was a great feeling to see how much we'd learnt at the end of the two weeks | Ruby, Rails, PostgreSQL, Devise, Rspec, Capybara |
 | **[Chitter](https://github.com/JLBrigham/chitter-challenge)** | A Twitter clone full stack web app, built entirely by myself.  I paid particular attention to developing my CSS skills and am still working on this.| Ruby, Sinatra, PostgreSQL, Rspec, Capybara |
 
