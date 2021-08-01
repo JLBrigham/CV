@@ -15,11 +15,11 @@ To record my journey as a software developer I've started a blog, take a look [h
 | --------------- | -------------| -------|
 | **[Grappitude](https://github.com/JLBrigham/Grappitude)** | A mobile app to encourage a positive mindset, my final group project at Makers. I loved seeing my original idea turn into a fully functioning app. | React Native, Express, Node, MongoDB, Javascript, Jest |
 | **[Acebook](https://github.com/JLBrigham/acebook-loungin-lizards)** | A Facebook clone web app, it was a challenge to learn Rails as a team but it was a great feeling to see how much we'd learnt at the end of the two weeks | Ruby, Rails, PostgreSQL, Devise, Rspec, Capybara |
-| **[Chitter](https://github.com/JLBrigham/chitter-challenge)** | A Twitter clone web app, built entirely by myself and still in progress,  I paid particular attention to developing my CSS skills.| Ruby, Sinatra, PostgreSQL, Rspec, Capybara |
+| **[Chitter](https://github.com/JLBrigham/chitter-challenge)** | A Twitter clone full stack web app, built entirely by myself.  I paid particular attention to developing my CSS skills and am still working on this.| Ruby, Sinatra, PostgreSQL, Rspec, Capybara |
 
 #### What I'm currently working on
 
-I'm teaching myself React with the aim of building myself a portfolio website. I recently completed a React tutorial to build this [task tracker](https://github.com/JLBrigham/react-task-tracker) and am now leanrning how to test React with Jest and Enzyme.
+After following some online React tutorials ([to-do list](https://github.com/JLBrigham/keeper-app)), I have recently started building myself an online portfolio/CV with React. You can see where I've got to, and follow my progress [here](https://github.com/JLBrigham/joannabrigham).
 
 ## Skills
 
