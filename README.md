@@ -5,7 +5,7 @@
 
 A junior developer who graduated from Makers Academy in April 2021, I am now excited to be looking for my first role in the tech industry, with a particular focus on front-end development.
 
-During this intensive 16 week bootcamp, I have gone from having basic Ruby programming skills to the ability to build a [full stack mobile/web application](https://github.com/JLBrigham/Grappitude). All whilst learning and understanding the importance of best coding practices and the value of writing high quality code. Coming from a background in travel, tourism and property and seeing the progression I've made in this short space of time has taught me that with a growth mindset, I have all the skills needed to learn whatever I put my mind to. The opportunities the tech industry will give me to continue this really excites me. Whilst at Makers I particularly enjoyed pair-programming and working on group engineering projects. I have seen the huge benefits that come from working collaboratively and am excited that the tech industry provides a chance to work and develop my skills further in this way.
+During this intensive 16 week bootcamp, I have gone from having basic Ruby programming skills to the ability to build a [full stack mobile/web application](https://github.com/JLBrigham/Grappitude). All whilst learning and understanding the importance of best coding practices and the value of writing high quality code. Coming from a background in travel, tourism and property and seeing the progression I've made in this short space of time has taught me that with a growth mindset, I have all the skills needed to learn whatever I put my mind to. The opportunities the tech industry will give me to continue this learning really excites me. Whilst at Makers I particularly enjoyed pair-programming and working on group engineering projects. I have seen the huge benefits that come from working collaboratively and am excited that the tech industry provides a chance to work and develop my skills further in this way.
 
 To record my journey as a software developer I've started a blog, take a look [here](https://joannabrigham.medium.com/) if you would like to find out more about what I've been learning recently.
 
@@ -13,15 +13,15 @@ To record my journey as a software developer I've started a blog, take a look [h
 
 | Name            | Description  | Tech   |
 | --------------- | -------------| -------|
-| **[Grappitude](https://github.com/JLBrigham/Grappitude)** | A mobile app to encourage a positive mindset, my final group project at Makers. I loved seeing my original idea turn into a fully functioning app. | React Native, Express, Node, MongoDB, JavaScript, Jest |
-| **[Chitter](https://github.com/JLBrigham/chitter-challenge)** | A Twitter clone full stack web app, built entirely by myself.  I paid particular attention to developing my CSS skills and am still working on this.| Ruby, Sinatra, PostgreSQL, Rspec, Capybara |
-| **[Notes App](https://github.com/JLBrigham/notes)** | A front-end JavaScript-only webapp for keeping notes, with custom testing framework. | Vanilla JavaScript |
-| **[Acebook](https://github.com/JLBrigham/acebook-loungin-lizards)** | A Facebook clone web app, it was a challenge to learn Rails as a team but it was a great feeling to see how much we'd learnt at the end of the two weeks | Ruby, Rails, PostgreSQL, Devise, Rspec, Capybara |
+| **[Grappitude](https://github.com/JLBrigham/Grappitude)** | A mobile app to encourage a positive mindset, my final group project at Makers. I loved seeing my original idea turn into a fully functioning app. | React Native, Express, Node, MongoDB, JavaScript, Jest, CSS |
+| **[Chitter](https://github.com/JLBrigham/chitter-challenge)** | A Twitter clone full stack web app, built entirely by myself.  Once I had completed the breif for this I paid particular attention to developing my CSS skills and am continuing to work on improving the styling.| Ruby, Sinatra, PostgreSQL, Rspec, Capybara, HTML, CSS |
+| **[Notes App](https://github.com/JLBrigham/notes)** | A front-end JavaScript-only webapp for keeping notes, with custom testing framework. | Vanilla JavaScript, CSS |
+| **[Acebook](https://github.com/JLBrigham/acebook-loungin-lizards)** | A Facebook clone web app, it was a challenge to learn Rails as a team but it was a great feeling to see how much we'd learnt at the end of the two weeks | Ruby, Rails, PostgreSQL, Devise, Rspec, Capybara, CSS |
 
 
 #### What I'm currently working on
 
-After following some online React tutorials ([to-do list](https://github.com/JLBrigham/keeper-app)), I have recently started building myself an online portfolio/CV with React. You can see where I've got to, and follow my progress [here](https://github.com/JLBrigham/joannabrigham).
+After completing some online React tutorials ([to-do list](https://github.com/JLBrigham/keeper-app)), I have recently started building myself an online portfolio/CV with React. You can see where I've got to, and follow my progress [here](https://github.com/JLBrigham/joannabrigham).
 
 ## Skills
 
