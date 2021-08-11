@@ -14,7 +14,7 @@ To record my journey as a software developer I've started a blog, take a look [h
 | Name            | Description  | Tech   |
 | --------------- | -------------| -------|
 | **[Grappitude](https://github.com/JLBrigham/Grappitude)** | A mobile app to encourage a positive mindset, my final group project at Makers. I loved seeing my original idea turn into a fully functioning app. | React Native, Express, Node, MongoDB, JavaScript, Jest, CSS |
-| **[Chitter](https://github.com/JLBrigham/chitter-challenge)** | A Twitter clone full stack web app, built entirely by myself.  Once I had completed the breif for this I paid particular attention to developing my CSS skills and am continuing to work on improving the styling.| Ruby, Sinatra, PostgreSQL, Rspec, Capybara, HTML, CSS |
+| **[Chitter](https://github.com/JLBrigham/chitter-challenge)** | A Twitter clone full stack web app, built entirely by myself.  Once I had completed the brief for this I paid particular attention to developing my CSS skills and am continuing to work on improving the styling.| Ruby, Sinatra, PostgreSQL, Rspec, Capybara, HTML, CSS |
 | **[Notes App](https://github.com/JLBrigham/notes)** | A front-end JavaScript-only webapp for keeping notes, with custom testing framework. | Vanilla JavaScript, CSS |
 | **[Acebook](https://github.com/JLBrigham/acebook-loungin-lizards)** | A Facebook clone web app, it was a challenge to learn Rails as a team but it was a great feeling to see how much we'd learnt at the end of the two weeks | Ruby, Rails, PostgreSQL, Devise, Rspec, Capybara, CSS |
 
