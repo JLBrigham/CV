@@ -39,7 +39,7 @@ I have built personable client relationships both as a property manager and whil
 A lot of time was spent pair programming or working on group projects whilst studying at Makers. I was a strong advocate for having an emotional check-in at the start of all our stand-ups and retros. Communicating how everyone in the team was feeling meant we were able to establish better, more meaningful team relations promoting more **effective team work** and an all round happier team.
 
 
-#### Not phased under pressure
+#### Adaptable and Not phased under pressure
 
 Working at the airport for Crystal Ski I consistently proved myself during crisis situations and was consequently promoted to the airport management team. My **adaptability** meant I became a team member that could step into any role and be relied on to 'get things done' whilst we faced huge operational obstacles, such as overnighting 1000 guests in a very small, regional airport. My **resilience**, **ability to keep calm** and **positive attitude** were attributes I was regularly praised for by colleagues.
 
