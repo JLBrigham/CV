@@ -25,7 +25,7 @@ Since graduating university I have spent the majority of my time living and work
 
 After completing some online React tutorials ([to-do list](https://github.com/JLBrigham/keeper-app)), I have recently started building myself an online portfolio/CV with React. You can see where I've got to, and follow my progress [here](https://github.com/JLBrigham/joannabrigham). 
 
-I am also interested to learn more about UX design and have enrolled on [this course] (https://www.coursera.org/learn/user-experience-design) to give me an understanding of the fundementals.
+I am also interested to learn more about UX design and have enrolled on [this course](https://www.coursera.org/learn/user-experience-design) to give me an understanding of the fundementals.
 
 ## Skills
 
