@@ -54,7 +54,7 @@ As part of my Makers final project we chose to learn an entirely new tech stack.
 
 ## Experience
 
-**Crystal Ski, TUI, Chamonix, France** (June 2017 - May 2020)  
+**Crystal Ski, TUI, Chamonix, France** (June 2017 - Present)  
 _Operations Executive and Airport Manager_
 
 - A very varied and unpredictable role where a **can-do attitude** was a must
